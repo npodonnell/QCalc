@@ -6,4 +6,4 @@ N. P. O'Donnell, 2023
 
 ## Features
 
-Can add 2 `int`s together
+Can add `int`s together
